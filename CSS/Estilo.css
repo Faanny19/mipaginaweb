@@ -1,0 +1,31 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.cuadro1{
+    background-color: lightcoral;
+}
+.cuadro2{
+    background-color: lightsalmon;
+}
+.cuadro3{
+    background-color: moccasin;
+}
+.derecho{
+    font-family: cursive;
+    color: midnightblue;
+    text-align: left;
+    
+}
+.derecho1{
+    font-family: cursive;
+    color: midnightblue;
+    text-align: left;
+    
+}
+.inacap{
+    background-color: rgb(218, 191, 218);
+}
+.text-center{
+    color: black;
+}
+
